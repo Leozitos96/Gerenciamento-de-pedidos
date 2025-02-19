@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4735F377-FA5A-445B-905B-8650144F52AA}|GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj|c:\\users\\user\\documents\\github\\gerenciamento-de-pedidos\\gerenciamentodepedidos\\gerenciamentodepedidos\\gerenciamentodepedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4735F377-FA5A-445B-905B-8650144F52AA}|GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj|solutionrelative:gerenciamentodepedidos\\gerenciamentodepedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerenciamentoDePedidos",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj",
+              "RelativeDocumentMoniker": "GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj",
+              "RelativeToolTip": "GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T16:03:40.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
