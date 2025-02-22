@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4735F377-FA5A-445B-905B-8650144F52AA}|GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj|c:\\users\\user\\documents\\github\\gerenciamento-de-pedidos\\gerenciamentodepedidos\\gerenciamentodepedidos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4735F377-FA5A-445B-905B-8650144F52AA}|GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciamento-de-pedidos\\gerenciamentodepedidos\\gerenciamentodepedidos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4735F377-FA5A-445B-905B-8650144F52AA}|GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj|solutionrelative:gerenciamentodepedidos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4735F377-FA5A-445B-905B-8650144F52AA}|GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciamento-de-pedidos\\gerenciamentodepedidos\\gerenciamentodepedidos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4735F377-FA5A-445B-905B-8650144F52AA}|GerenciamentoDePedidos\\GerenciamentoDePedidos.csproj|solutionrelative:gerenciamentodepedidos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos\\Cliente.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDePedidos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos\\Cliente.cs",
+              "RelativeToolTip": "GerenciamentoDePedidos\\Cliente.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:03:39.424Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos\\Database.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos\\Database.cs",
               "RelativeDocumentMoniker": "GerenciamentoDePedidos\\Database.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos\\Database.cs",
-              "RelativeToolTip": "GerenciamentoDePedidos\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciamento-de-pedidos\\GerenciamentoDePedidos\\GerenciamentoDePedidos\\Database.cs*",
+              "RelativeToolTip": "GerenciamentoDePedidos\\Database.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T16:48:02.009Z",
               "EditorCaption": ""
