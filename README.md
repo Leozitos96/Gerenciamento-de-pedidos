@@ -44,3 +44,7 @@ Execute o projeto e utilize as opções disponíveis no menu para gerenciar os p
 ``` bash
 $dotnet run
 ```
+
+``` 
+Feito por: Ricardo, Leonardo e Daniel Sampaio
+```
